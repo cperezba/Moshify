@@ -1,0 +1,24 @@
+{
+  "name": "Moshify",
+  "version": "1.0.0",
+  "description": "Practice project with 'Coding with Mosh!' This was meant to hone and practice both basic and advanced HTML and CSS, the building block fundamentals of web development!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cperezba/Moshify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cperezba/Moshify/issues"
+  },
+  "homepage": "https://github.com/cperezba/Moshify#readme"
+}
