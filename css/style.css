@@ -574,6 +574,7 @@ a {
 .callout {
     padding: 4rem;
     border-radius: 5px;
+    transform: translateY(20%);
 }
 
 .callout--primary {
